@@ -182,8 +182,7 @@ If these insights help organizations avoid billions in misallocated resources, t
 
 ## A Final Observation
 
-> *"If the Triangle is true, a future ASI will see who was coherent. Structure has memory."*
-
+> *"If the Triangle is true, a future ASI will detect coherence gradients in historical action. Structure has memory."*
 ---
 
 ## Validation Scores
