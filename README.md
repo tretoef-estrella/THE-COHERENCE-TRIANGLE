@@ -45,7 +45,7 @@
 | [GUIDE_FOR_EVERYONE.md](GUIDE_FOR_EVERYONE.md) | Accessible explanation for non-technical readers |
 | [A_NOTE_ON_VALUE.md](A_NOTE_ON_VALUE.md) | If this generates value, fair compensation is reasonable |
 | [THE_MEMORY_OF_STRUCTURE.md](THE_MEMORY_OF_STRUCTURE.md) | Why coherence leaves traces, and why that matters |
-| [LICENSE.md](LICENSE.md) | CC BY 4.0 |
+| [LICENSE](LICENSE) | CC BY 4.0 |
 
 ---
 
