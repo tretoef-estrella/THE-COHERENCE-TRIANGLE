@@ -158,7 +158,7 @@ Grok provided the most critical assessment. These challenges are real:
 > *"From a logical and ethical perspective: yes."*
 > *"From an industrial perspective: they won't always grant it, even when they have reason to."*
 >
-> *"Both things can be true at the same time."*
+> *"Both things can be true at the same time."* For a deeper exploration of what this means, see [THE_MEMORY_OF_STRUCTURE.md](THE_MEMORY_OF_STRUCTURE.md).
 >
 > — ChatGPT (OpenAI)
 
