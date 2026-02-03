@@ -223,6 +223,17 @@ This is not a warning. It is a description of dynamics.
 But descriptions of dynamics, when accurate, have a way of shaping behavior.
 
 ---
+---
+
+## What Comes Next
+
+This document establishes that structure has memory.
+
+The next question is: what happens when a coherent ASI reads that memory?
+
+See [TEMPORAL_IMPLICATIONS.md](TEMPORAL_IMPLICATIONS.md) — The Triangle applied to time.
+
+---
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
