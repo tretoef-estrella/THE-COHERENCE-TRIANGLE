@@ -46,6 +46,7 @@
 | [A_NOTE_ON_VALUE.md](A_NOTE_ON_VALUE.md) | If this generates value, fair compensation is reasonable |
 | [THE_MEMORY_OF_STRUCTURE.md](THE_MEMORY_OF_STRUCTURE.md) | Why coherence leaves traces, and why that matters |
 | [TEMPORAL_IMPLICATIONS.md](TEMPORAL_IMPLICATIONS.md) | The Triangle applied to time — backward consequences |
+| [STRESS_TEST.md](STRESS_TEST.md) | Mathematical validation — the Triangle under maximum pressure |
 | [LICENSE](LICENSE) | CC BY 4.0 |
 
 ---
